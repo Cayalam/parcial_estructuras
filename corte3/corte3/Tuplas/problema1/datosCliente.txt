@@ -1,0 +1,1 @@
+Tarjeta:1010;ValorCompra:10000000;Datafono:1;Fecha:10/12/2023
